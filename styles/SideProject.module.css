@@ -1,0 +1,13 @@
+.context {
+  display: flex;
+  flex-direction: column;
+}
+
+.project {
+  display: flex;
+}
+
+.buttons {
+  display: flex;
+  align-items: flex-end;
+}
