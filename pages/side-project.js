@@ -38,9 +38,15 @@ export default function SideProject() {
                 <button className="btn btn-primary me-2">
                   <i className="bi bi-github"></i> Github
                 </button>
-                <button className="btn btn-primary">
-                  <i className="bi bi-link-45deg"></i> Link
-                </button>
+                <a
+                  href="https://f21-fse-esn-sb1.herokuapp.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <button className="btn btn-primary">
+                    <i className="bi bi-link-45deg"></i> Link
+                  </button>
+                </a>
               </div>
             </div>
             <div className={styles.image}>

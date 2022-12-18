@@ -18,9 +18,9 @@ export default function Navbar() {
           <li className={styles.navItem}>
             <Link href="/experience">Experience</Link>
           </li>
-          <li className={styles.navItem}>
+          {/* <li className={styles.navItem}>
             <Link href="/side-project">Side Project</Link>
-          </li>
+          </li> */}
         </ul>
       </div>
     </div>

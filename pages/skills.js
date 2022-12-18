@@ -57,9 +57,6 @@ export default function Skills() {
           <h3>Backend</h3>
           <canvas id="backendChart"></canvas>
         </div>
-        <div className={`${styles.skill} mb-5`}>
-          <h3>Others</h3>
-        </div>
       </div>
     </Layout>
   );

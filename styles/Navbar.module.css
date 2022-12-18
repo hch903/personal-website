@@ -1,6 +1,5 @@
 .container {
   width: 250px;
-  height: 100%;
 
   background: #895737;
 
@@ -11,7 +10,7 @@
 }
 
 .avatarContainer {
-  position: absolute;
+  position: fixed;
   width: 20vw;
   height: 50%;
   top: 0;
@@ -33,7 +32,7 @@
 }
 
 .content {
-  position: absolute;
+  position: fixed;
   width: 20vw;
   height: 50%;
   top: 50%;
